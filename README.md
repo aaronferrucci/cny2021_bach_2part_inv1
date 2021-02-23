@@ -2,6 +2,8 @@
 J.S. Bach's 2-part invention #1 for 2 CNY2021 boards. The rev 1 (red) board
 plays the right hand, the white rev 2 board the left.
 
+Tomatocube has some fine documentation on their boards, [have a look!](https://www.tomatocube.com/cny2021/)
+
 I only put in the first 6 measures (plus one 1/8th note), but if anyone wants
 to continue, the sheet music is [here](https://www.virtualsheetmusic.com/score/Invenzioni.html).
 
